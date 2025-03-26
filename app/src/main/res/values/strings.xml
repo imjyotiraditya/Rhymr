@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App name -->
+    <string name="app_name">Rhymr</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_lyrics">Lyrics</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Content Descriptions -->
+    <string name="cd_back_button">Navigate back</string>
+    <string name="cd_track_image">Track artwork</string>
+    <string name="cd_clear_search">Clear search</string>
+    <string name="cd_search">Search</string>
+    <string name="cd_error">Error</string>
+
+    <!-- Titles -->
+    <string name="title_music_library">Music Library</string>
+
+    <!-- Labels -->
+    <string name="label_no_music">No music files found</string>
+    <string name="label_permission_required">Storage permission required</string>
+    <string name="label_unknown">Unknown</string>
+    <string name="label_no_music_description">We couldn\'t find any music files on your device. Add some music to get started.</string>
+    <string name="label_permission_required_description">The app needs permission to access your music files. Please grant permissions in the app settings.</string>
+
+    <!-- Errors -->
+    <string name="error_loading_music">Error loading music files</string>
+    <string name="error_loading_music_description">There was a problem loading your music library. Please try again.</string>
+    <string name="error_loading_lyrics">Failed to load lyrics</string>
+
+    <!-- Lyrics -->
+    <string name="search_lyrics">Search for lyrics</string>
+    <string name="search_instruction">Enter a song title and artist</string>
+    <string name="search_instruction_description">Type an artist or song name to find lyrics</string>
+    <string name="search_other_lyrics">Search for other lyrics</string>
+    <string name="view_lyrics_instruction">Select a source to view lyrics for this track</string>
+    <string name="no_lyrics_found">No lyrics found</string>
+    <string name="no_lyrics_found_description">We couldn\'t find lyrics for this song. Try a different search or source.</string>
+
+    <!-- Settings -->
+    <string name="settings_coming_soon">Settings Coming Soon</string>
+    <string name="settings_coming_soon_description">App settings will be available in a future update.</string>
+</resources>
